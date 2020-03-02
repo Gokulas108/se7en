@@ -1,0 +1,7 @@
+Se7eN - Food Delivery App
+The Following order has been placed
+Hotel : Anandhaas
+Food : Idly Sambar
+Price : 25Rs
+Total : 25Rs
+Thanks For Ordering! See you Again
